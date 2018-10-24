@@ -1,0 +1,12 @@
+{
+    "name": "notapp/sw",
+    "description": "Check what you need to aprove",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kevin",
+            "email": "kevin.pardo.2016@upb.edu.co"
+        }
+    ],
+    "require": {}
+}
